@@ -7,4 +7,6 @@ class hello{
 	public void login(){
 		//logic
 	}
+
+	public void  cya(){}
 }
